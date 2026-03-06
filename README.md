@@ -13,4 +13,8 @@ Google Colab Link:
 https://c00ffefbaeaf68cd97.gradio.live
 
 ## Author
-Libin Raj
+Libin Raj,
+Jayaram,
+Cijo,
+Vignesh,
+Jeen
